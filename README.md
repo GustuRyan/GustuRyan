@@ -1,6 +1,8 @@
 <h1 align="center">Hi guys welcome 👋, I'm known as Gustu Ryan</h1>
 <h3 align="center">An enthusiast for software technologies such as web and mobile dev also machine learning diver. I'm undergraduate Computer Science student at Udayana University from Bali, Indonesia</h3>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gusturyan" alt="gusturyan" /></a> </p>
+
 - 🔭 I’m currently working on **Furnicons**
 
 - 🌱 I’m currently learning **Kotlin, Nuxt.js, Next.js, Laravel, etc**
