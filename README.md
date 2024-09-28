@@ -21,6 +21,7 @@
 <h1 align="left">Others</h1>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gusturyan&theme=juicyfresh" alt="gusturyan" /></a> </p>
 
+<h1 align="left">Specifications</h1>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gusturyan&show_icons=true&locale=en&layout=compact" alt="gusturyan" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gusturyan&show_icons=true&locale=en" alt="gusturyan" /></p>
