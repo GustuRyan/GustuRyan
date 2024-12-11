@@ -1,4 +1,4 @@
-<h1 align="center">Helloo guys welcome 👋, I'm Gustu or you can call me Gus Ryan</h1>
+<h1 align="center">Hii guys welcome 👋, I'm Gustu or you can call me Gus Ryan</h1>
 <h3 align="center">Right now I'm so enthusiast to learn about software technologies such as web and mobile dev also machine learning diver. I'm undergraduate Computer Science student at Udayana University from Bali, Indonesia</h3>
 
 - 🔭 I’m currently working on **Federal Oil Worshop Web** and **SoMatch Android App**
