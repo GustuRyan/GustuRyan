@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Vue, React, and Laravel**
 
-- 📫 How to reach me **rian.putra2003@gmail.com**
+- 📫 How to reach me **gusturyan03@gmail.com**
 
 <h1 align="left">Connect with me:</h1>
 <p align="left">
