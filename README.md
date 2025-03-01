@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Federal Oil Workshop Web** and **SoMatch Android App**
 
-- 🌱 I’m currently learning **Kotlin, Nuxt.js, Next.js, Laravel, etc**
+- 🌱 I’m currently learning **Kotlin, Solidity, Rust, etc**
 
 - 💬 Ask me about **Vue, React, and Laravel**
 
