@@ -1,5 +1,5 @@
 <h1 align="center">Hello welcome 👋, I'm Gustu or you can call me Gus Ryan</h1>
-<h3 align="center">Right now I'm so enthusiast to learn about software technologies such as web and mobile dev also machine learning diver. I'm undergraduate Informatics student at Udayana University from Bali, Indonesia</h3>
+<h3 align="center">Right now I'm so enthusiast to learn about software technologies especially web3 like blockchain. Then have several expperiance in web and mobile development also machine learning diver. I'm undergraduate Informatics student at Udayana University from Bali, Indonesia</h3>
 
 - 🔭 I’m currently working on **Federal Oil Workshop Web** and **SoMatch Android App**
 
