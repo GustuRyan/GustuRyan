@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Federal Oil Workshop Web** and **SoMatch Android App**
 
-- 🌱 I’m currently learning **Kotlin, Solidity, Rust, etc**
+- 🌱 I’m currently learning **Kotlin, Solidity, Rust, Go, etc**
 
 - 💬 Ask me about **Vue, React, and Laravel**
 
