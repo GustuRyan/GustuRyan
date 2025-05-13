@@ -24,6 +24,6 @@
 <h1 align="left">Specifications</h1>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gusturyan&show_icons=true&locale=en&layout=compact" alt="gusturyan" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gusturyan&show_icons=true&locale=en&theme=radical" alt="gusturyan" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gusturyan&show_icons=true&locale=en&theme=tokyonight" alt="gusturyan" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gusturyan&" alt="gusturyan" /></p>
