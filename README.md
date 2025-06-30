@@ -1,7 +1,7 @@
 <h1 align="center">Helloo welcome 👋, I'm Gustu or you can call me Gus Ryan</h1>
 <h3 align="center">Right now I'm an enthusiast that learn about software technologies especially in web3 like blockchain and machine learning. Then have several expperiance in web and mobile development also machine learning diver. I'm undergraduate Informatics student at Udayana University from Bali, Indonesia</h3>
 
-- 🔭 I’m currently working on **Furnicons E-Commerse**, **Federal Oil Workshop Web** and **SoMatch Android App**
+- 🔭 I’m currently working on **Furnicons E-Commerse**, **Federal Oil Workshop Web** and **Employee Management App**
 
 - 🌱 I’m currently learning **Kotlin, Solidity, Rust, Go, etc**
 
